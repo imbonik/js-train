@@ -1,0 +1,2 @@
+var name = prompt ('Whats your name?','');
+alert ('Your name is - '+ name);
